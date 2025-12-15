@@ -201,9 +201,4 @@ $RECYCLE.BIN/
 *.log
 logs/
 
-# Documentation files (keep only README.md in repo)
-APRESENTACAO.md
-GUIA_APRESENTACAO.md
-RESUMO_EXECUTIVO.md
-GIT_SETUP.md
 
